@@ -1,0 +1,5 @@
+Accessing Gembird #0 USB device 003
+Status of outlet 1:	off
+Error performing requested action
+Libusb error string: Operation timed out
+Terminating

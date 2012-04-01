@@ -1,0 +1,5 @@
+Accessing Gembird #0 USB device 003
+Status of outlet 1:	on
+Status of outlet 2:	off
+Status of outlet 3:	on
+Status of outlet 4:	off

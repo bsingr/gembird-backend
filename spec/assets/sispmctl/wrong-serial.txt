@@ -1,0 +1,2 @@
+No device with serial number foobar123 found.
+Terminating

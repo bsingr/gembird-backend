@@ -1,0 +1,4 @@
+Gembird #0
+USB information:  bus 004, device 001
+device type:      4-socket SiS-PM
+serial number:    02:01:48:af:e0
